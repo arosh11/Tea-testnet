@@ -1,0 +1,12 @@
+npx create-next-app@latest
+git add 
+git init
+Tea testnet
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git push -u origin main
+npm init
+https://npmjs.com
+npm adduser
+npm publish
